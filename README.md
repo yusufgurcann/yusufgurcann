@@ -7,11 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yusuf gürcan" target="blank">
+  <a href="https://www.linkedin.com/in/yusuf-g%C3%BCrcan-563b4523a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf gürcan" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/yourprofile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://instagram.com/gurcan0675" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurcan0675" height="30" width="40" />
