@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">Junior Developer</h3>
-
+<hr/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile views" />
 </p>
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +16,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurcan0675" height="30" width="40" />
   </a>
 </p>
+<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -43,6 +45,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 </p>
+<hr/>
 
 <h3 align="left">Design Tools:</h3>
 <p align="left">
