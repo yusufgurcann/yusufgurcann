@@ -6,7 +6,7 @@
 </p>
 <hr/>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/yusuf-g%C3%BCrcan-563b4523a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf gürcan" height="30" width="40" />
@@ -18,7 +18,7 @@
 </p>
 <hr/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -41,7 +41,7 @@
 </p>
 <hr/>
 
-<h3 align="left">Design Tools:</h3>
+<h2 align="left">Design Tools:</h2>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
