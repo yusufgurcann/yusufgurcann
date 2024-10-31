@@ -15,6 +15,9 @@
   <a href="https://instagram.com/yusufgurcan_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurcan0675" height="30" width="40" />
   </a>
+  <a href="https://x.com/yusufgurcann" target="blank">
+    <img align="center" src="https://images.seeklogo.com/logo-png/49/1/twitter-x-logo-png_seeklogo-492396.png?v=638653838510000000" alt="yusufgurcann" height="30" width="40" />
+  </a>
 </p>
 
 
