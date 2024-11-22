@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">Junior Developer</h3>
 
-<p align="left">
-  <img src="https://camo.githubusercontent.com/9a0e678efe655b8fce254142db9efe7b5988a6e310b877c293db79e1f9ca1f1d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6572617962756c7574266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Profile views" />
-</p>
-
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/yusuf-g%C3%BCrcan-563b4523a/" target="blank">
