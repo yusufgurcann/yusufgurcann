@@ -2,7 +2,7 @@
 <h3 align="center">Junior Developer</h3>
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
+<p  align="left">
   <a href="https://www.linkedin.com/in/yusuf-g%C3%BCrcan-563b4523a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf gürcan" height="30" width="40"  />
   </a>
