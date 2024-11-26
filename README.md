@@ -8,7 +8,7 @@
   </a>
   </a>
   <a href="https://instagram.com/yusufgurcan_" target="blank">
-    < img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurcan0675" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurcan0675" height="30" width="40" />
   </a>
   <a href="https://x.com/yusufgurcann" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" height="40  " width="40"/>
