@@ -69,11 +69,9 @@
   <div class="container">
     <h1>Hi 👋, I'm Yusuf</h1>
     <h3>Junior Developer | Passionate About Coding</h3>
-
     <div class="intro">
       <p>Welcome to my GitHub profile! I'm a passionate developer with a love for building mobile apps and web solutions. I'm currently working with Flutter and Firebase, and constantly learning new technologies!</p>
     </div>
-
     <h2>Connect with me:</h2>
     <div class="social-links">
       <a href="https://www.linkedin.com/in/yusuf-g%C3%BCrcan-563b4523a/" target="_blank">
@@ -86,7 +84,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X" height="40" width="40"/>
       </a>
     </div>
-
     <h2>Languages and Tools:</h2>
     <div class="tools">
       <a href="https://developer.apple.com/swift/" target="_blank">
@@ -102,7 +99,6 @@
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
       </a>
     </div>
-
     <h2>Design Tools:</h2>
     <div class="tools">
       <a href="https://www.figma.com/" target="_blank">
@@ -110,7 +106,6 @@
       </a>
     </div>
   </div>
-
   <script>
     // JavaScript for social links interaction
     const socialLinks = document.querySelectorAll(".social-links img");
