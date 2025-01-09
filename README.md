@@ -52,6 +52,16 @@
       max-width: 1200px;
       margin: auto;
     }
+    .tools, .social-links {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+    .tools a, .social-links a {
+      text-decoration: none;
+    }
   </style>
 </head>
 <body>
@@ -102,13 +112,14 @@
   </div>
 
   <script>
-    const socialLinks = document.querySelectorAll(".social-links a");
+    // JavaScript for social links interaction
+    const socialLinks = document.querySelectorAll(".social-links img");
     socialLinks.forEach(link => {
       link.addEventListener("mouseover", () => {
-        link.querySelector("img").style.transform = "scale(1.2)";
+        link.style.transform = "scale(1.2)";
       });
       link.addEventListener("mouseout", () => {
-        link.querySelector("img").style.transform = "scale(1)";
+        link.style.transform = "scale(1)";
       });
     });
   </script>
