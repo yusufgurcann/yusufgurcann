@@ -65,7 +65,6 @@
   </style>
 </head>
 <body>
-
   <div class="container">
     <h1>Hi 👋, I'm Yusuf</h1>
     <h3>Junior Developer | Passionate About Coding</h3>
@@ -107,7 +106,6 @@
     </div>
   </div>
   <script>
-    // JavaScript for social links interaction
     const socialLinks = document.querySelectorAll(".social-links img");
     socialLinks.forEach(link => {
       link.addEventListener("mouseover", () => {
@@ -118,6 +116,5 @@
       });
     });
   </script>
-
 </body>
 </html>
