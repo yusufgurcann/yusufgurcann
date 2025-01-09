@@ -1,4 +1,4 @@
-Bana dünyanın en güzel en ilgi çekici GitHub readme kodunu yaz html,css,JavaScript hepsini kullan zaten beni tanıyorsun o kodu bana göre uyarla kodun şuan ki hali böyle bundan benim becerilimi öğren ve en iyisini en güzelini yaz  <h1 align="center">Hi 👋, I'm Yusuf</h1>
+<h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">Junior Developer</h3>
 
 <h2 align="left">Connect with me:</h2>
