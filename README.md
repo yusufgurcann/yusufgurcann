@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/yusuf-g%C3%BCrcan-563b4523a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf gürcan" height="30" width="40"  />
   </a>
-  </a>
+   </a>
   <a href="https://instagram.com/yusufgurcan_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurcan0675" height="30" width="40" />
   </a>
